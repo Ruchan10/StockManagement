@@ -55,8 +55,5 @@ Once installed, launch the app to:
 - Test sorting, filtering, and product details with demo data.  
 - Explore the functionality of adding and updating items (in demo mode).  
 
-## Feedback
-We welcome your feedback and suggestions! If you encounter any issues or have ideas for improvement, feel free to contact us at **support@example.com**.
-
 ## Disclaimer
 The app is currently provided with demo data only. The functionality and design are subject to customization based on client requirements.
