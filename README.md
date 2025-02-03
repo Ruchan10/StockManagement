@@ -38,7 +38,7 @@ Welcome to the **Stock Management App**! This app is designed to simplify and st
 To give you a glimpse of how the app works, we’ve included a demo version with sample data. You can download the APK file from the **Releases** section.
 
 ### Download the Demo
-1. Navigate to the [Releases](https://github.com/stockmgt/releases) section of this repository.  
+1. Navigate to the [Releases](https://github.com/Ruchan10/StockManagement/releases) section of this repository.  
 2. Download the latest demo APK.  
 3. Install the APK on your Android device to explore the app.
 
